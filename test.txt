@@ -1,0 +1,1 @@
+mqtt pub -t 'test' -h 'mqtt://3.14.105.128' -m 'from MQTT.js'
